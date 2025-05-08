@@ -20,7 +20,7 @@
             "text": "Mesa County GIS",
             "required": true
         },
-        "icon": "https://gis.mesacounty.us/globalassets/images/county-logos/mesa-county-logo.png",
+        "icon": "https://www.mesacounty.us/themes/custom/if_design_system/images/favicon-32.png",
         "category": "historicphoto",
         "min_zoom": 8
     },
